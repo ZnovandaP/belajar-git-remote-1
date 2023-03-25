@@ -4,10 +4,11 @@ body {
 }
 
 .judul {
-  background-color: #333;
-  color: #ff6600;
+  background-color: #ff6600;
+  color: #ededed;
 }
 
 p {
   color: #333;
+  
 }
