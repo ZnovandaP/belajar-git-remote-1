@@ -6,9 +6,12 @@ body {
 .judul {
   background-color: #ff6600;
   color: #ededed;
+  padding: 10px;
+  border-radius: 7px;
 }
 
 p {
   color: #333;
-  
+  background-color: #eee;
+  border-radius: 5px;
 }
